@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="btnA">Нажата кнопка А</string>
-    <string name="btnB">Нажата кнопка B</string>
-    <string name="btnSpace">Нажата кнопка Space</string>
-    <string name="btnDel">Нажата кнопка Del</string>
-</resources>
