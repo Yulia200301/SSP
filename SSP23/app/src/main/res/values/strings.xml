@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My_Application_SSP</string>
+    <string name="redButton">Цвет изменен на красный</string>
+    <string name="blueButton">Цвет изменен на синий</string>
+    <string name="yellowButton">Цвет изменен на желтый</string>
+    <string name="whiteButton">Цвет изменен на белый</string>
+    <string name="greenButton">Цвет изменен на зеленый</string>
+    <string name="secretno">Не бейте тапочком, пожалуйста</string>
+</resources>
